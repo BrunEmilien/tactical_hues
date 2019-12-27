@@ -23,6 +23,7 @@ require "src.globalParameters"
 local gamemode
 local faceToFaceMode = false
 
+
 local backGroup
 local mainGroup = { back, middle, middle, middleNoFlip, front, frontNoFlip }
 local uiGroup = { back, middle, front }
